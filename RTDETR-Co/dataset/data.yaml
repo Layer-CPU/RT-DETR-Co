@@ -1,0 +1,11 @@
+
+path:
+train:
+val:
+test:
+
+# number of classes
+nc:
+
+# class names
+names: []
